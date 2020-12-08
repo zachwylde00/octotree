@@ -27,7 +27,7 @@
     "firefox-profile": "~0.3.6",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "0.0.8",
-    "gulp-clean": "^0.3.1",
+    "gulp-clean": "^0.4.0",
     "gulp-concat": "*",
     "gulp-crx-pack": "^1.0.1",
     "gulp-cssmin": "^0.2.0",
