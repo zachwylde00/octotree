@@ -1,0 +1,21 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "11:00"
+  open-pull-requests-limit: 10
+  reviewers:
+  - Zachwylde00
+  assignees:
+  - Zachwylde00
+  ignore:
+  - dependency-name: gulp-replace
+    versions:
+    - 1.0.0
+    - 1.1.0
+    - 1.1.1
+  - dependency-name: gulp-mocha
+    versions:
+    - 7.0.2
