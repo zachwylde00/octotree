@@ -52,7 +52,7 @@
     "selenium-webdriver": "2.44.0",
     "starx": "~0.1.7",
     "stream-series": "*",
-    "underscore": "~1.9.2",
+    "underscore": "~1.12.1",
     "underscore.string": "~3.3.5"
   }
 }
